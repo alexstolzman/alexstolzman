@@ -2,5 +2,5 @@
 
 
 <details>
-  Languages & Skills
+  <summary>Languages & Skills</summary>
 </details>
